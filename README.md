@@ -17,4 +17,4 @@ We learned that coding has a much larger impact than we first expected. The worl
 ## What's next for Food For Thought
 Future Rollout includes putting the application on the app-store and to get a hosting website for it. 
 
-Sigmahacks github repository made by Christopher Chou, Raj Thota, Akshay Kumar, and Kevin Pradjinata
+Sigmahacks github repository made by Christopher Chou, Raj Thota, Akshay Kumar, and Renesh Gudipati
