@@ -14,7 +14,7 @@ We ran into some problems regarding the creation of the app.
 Object Detection through Deep Learning (GCP API), Flask With the Front End, Helping the world encountering similar problems
 ## What we learned
 We learned that coding has a much larger impact than we first expected. The world can be benefitted incredibly through our program. Obesity levels drop, diabetes levels drop, and mortality levels drop. We also learned how to skillfully use Flask and GCP API
-## What's next for Food For Thought
+## What's next for Foodology
 Future Rollout includes putting the application on the app-store and to get a hosting website for it. 
 
 SRC Hacks II github repository made by Christopher Chou, Raj Thota, Akshay Kumar, and Renesh Gudipati
