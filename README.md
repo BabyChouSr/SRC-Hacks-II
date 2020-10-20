@@ -6,8 +6,8 @@ Our friend, Renesh Gudipati, is allergic to nuts. A distinct memory that inspire
 It detects images from different foods and analyzes them through databases to determine the effects of certain foods as well as translates the text into English for the reader. 
 ## How we built it
 It utilizes Google Cloud Platform API and detects images and analyzes the words on it. We also utilized Google's Text-Translate API to convert the languages. 
-We then utilize a database in order to classify the ingredients in different categories regarding the different possible effects such as cancer, diabetes, headaches, etc. 
-After that, we utilized Flask in order to link the website with the frontend (html,js,css) with the backend (python). This way, many others can utilize our application.
+We utilize a webscraper to search up the dishes on the internet and outputs the ingredients.
+We used Flask in order to link the website with the frontend (html,js,css) with the backend (python). This way, many others can utilize our application.
 ## Challenges we ran into
 We ran into some problems regarding the creation of the app.
 ## Accomplishments that we're proud of
